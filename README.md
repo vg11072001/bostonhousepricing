@@ -15,5 +15,5 @@ conda create --name env_name python=3.7
 
 Run for the requirements
 ```
-pip install -r  requirement.txt
+pip install -r requirement.txt
 ```
