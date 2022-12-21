@@ -1,6 +1,7 @@
 # Boston House Pricing Prediction
 
 Attribute Information (in order):
+
         * CRIM     per capita crime rate by town
         * ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
         * INDUS    proportion of non-retail business acres per town
