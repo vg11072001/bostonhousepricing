@@ -1,5 +1,10 @@
 # Boston House Pricing Prediction
 
+![image](https://user-images.githubusercontent.com/67424390/209007126-ee923e4a-6a62-420a-878b-25c1f794813e.png)
+![image](https://user-images.githubusercontent.com/67424390/209007597-49acb296-3f39-4ee2-a508-89ba1d97d982.png)
+![image](https://user-images.githubusercontent.com/67424390/209007590-51b79698-e444-4620-b93a-603b625ecfe4.png)
+
+
 Attribute Information (in order):
 
         * CRIM     per capita crime rate by town
