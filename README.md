@@ -40,3 +40,6 @@ Run for the requirements
 ```
 pip install -r requirement.txt
 ```
+
+## Reference and guide materials 
+* https://github.com/krishnaik06/machinelearningproject 
