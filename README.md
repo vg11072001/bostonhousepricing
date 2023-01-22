@@ -1,4 +1,4 @@
-# Boston House Pricing Prediction (https://vg-boston-cc1i.onrender.com/predict)
+# Boston House Pricing Prediction (https://vg-boston-cc1i.onrender.com)
 
 ![image](https://user-images.githubusercontent.com/67424390/209007126-ee923e4a-6a62-420a-878b-25c1f794813e.png)
 
