@@ -27,7 +27,7 @@ Attribute Information (in order):
 
 1. github
 2. VS Code
-3. heroku
+3. Render
 4. GitCLI
 
 Create a new environment
@@ -41,5 +41,6 @@ Run for the requirements
 pip install -r requirement.txt
 ```
 
+Steps of the file are mention on ``` Steps.md```
 ## Reference and guide materials 
 * https://github.com/krishnaik06/machinelearningproject 
