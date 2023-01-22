@@ -41,6 +41,6 @@ Run for the requirements
 pip install -r requirement.txt
 ```
 
-Steps of the file are mention on ``` Steps.md```
+Steps of the file are mention on ```Steps.md```
 ## Reference and guide materials 
 * https://github.com/krishnaik06/machinelearningproject 
