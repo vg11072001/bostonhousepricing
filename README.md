@@ -45,3 +45,4 @@ Steps of the file are mention on ```Steps.md```
 ## Reference and guide materials 
 * https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
 * https://github.com/krishnaik06/
+* https://www.kaggle.com/code/subbhashit/boston-house-pricing-99-accuracy
